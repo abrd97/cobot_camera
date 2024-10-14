@@ -32,7 +32,7 @@ This will open a window showing the pciture of the camera.
 
 ## Instructions
 
-- The 's' key on your keyboard will save the image as `png` beginning with gt, the formatted UTC time including seconads and ms, and the count for the base name in the `.gt/` directory, e.g:  'gt_2024-09-04_14-26-59_1.png'
+- The 's' key on your keyboard will save the image as `png` beginning with gt, the formatted UTC time including seconds and ms, and the count for the base name in the `.gt/` directory, e.g:  'gt_2024-09-04_14-26-59_1.png'
 - It will also create the corresponding `txt` file with the same base name as the image
 - The 'q' key will quit the application
 - The `resize.py` is just for testing the resizing of images and inspecting its quality. NO actual use for it. 
